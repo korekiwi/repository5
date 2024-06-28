@@ -20,8 +20,7 @@ for (let i = 0; i < headers.length; i++) {
                 closeFlag = false;
             }
             else{
-                closeFlag = true;
-            }
+        closeFlag = true;}
         }
         else {
             boxes[i].style.display = 'block';
